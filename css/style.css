@@ -19,7 +19,7 @@ body {
 	background-size: cover;
 }
 table {
-	background-image: url("../image/bg.png");
+	background-image: url("../image/bg.PNG");
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
