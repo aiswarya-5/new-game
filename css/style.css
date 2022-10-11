@@ -20,7 +20,7 @@ body {
 }
 table {
 	background-image: url("../image/bg.PNG");
-	background-size: 100%;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 #play {
@@ -87,8 +87,8 @@ table {
    		width: 50px;
 	}
 	#snakeMsg {
-    		padding: 13px;
-    		position: absolute;
-   		margin-top: 414px;
+    padding: 8px;
+    position: absolute;
+    margin-top: 466px;
 }
 }
