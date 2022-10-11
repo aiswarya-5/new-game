@@ -78,8 +78,17 @@ table {
 	}
 
 	#play {
-		height: 55px;
-		width: 151px;
-		font-size: xx-large;
+		height: 45px;
+		width: 142px;
+		font-size: x-large;
 	}
+	#dice {
+    		height: 50px;
+   		width: 50px;
+	}
+	#snakeMsg {
+    		padding: 13px;
+    		position: absolute;
+   		margin-top: 414px;
+}
 }
